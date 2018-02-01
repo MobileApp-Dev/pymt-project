@@ -1,0 +1,4 @@
+#Thu Feb 01 18:34:52 IST 2018
+base.0=E\:\\Download\\React Projects\\Pymt app\\Pymt\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=E\:\\Download\\React Projects\\Pymt app\\Pymt\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
